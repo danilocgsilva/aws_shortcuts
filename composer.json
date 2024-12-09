@@ -1,0 +1,16 @@
+{
+    "name": "danilocgsilva/aws_shortcut",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Danilocgsilva\\AwsShortcut\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Silva",
+            "email": "contact@danilocgsilva.me"
+        }
+    ],
+    "require": {}
+}
