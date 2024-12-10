@@ -12,5 +12,7 @@
             "email": "contact@danilocgsilva.me"
         }
     ],
-    "require": {}
+    "require": {
+        "aws/aws-sdk-php": "^3.334"
+    }
 }
